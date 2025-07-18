@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Get Exclusive Roofing Leads | LA</title>
+  <meta name="description" content="Connect with homeowners actively looking for roofing services in Los Angeles. Exclusive, high-converting leads for roofers.">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f5f7fa;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .theme-primary {
+      background-color: #1f2937;
+      color: #ffffff;
+    }
+    .theme-accent {
+      background-color: #2563eb;
+    }
+    .theme-accent:hover {
+      background-color: #1d4ed8;
+    }
+  </style>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HR70PJP4MJ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-HR70PJP4MJ');
+  </script>
+  <!-- Meta Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '681747141496193');
+    fbq('track', 'PageView');
+  </script>
+  <noscript>
+    <img height="1" width="1" style="display:none"
+         src="https://www.facebook.com/tr?id=681747141496193&ev=PageView&noscript=1"/>
+  </noscript>
+</head>
+<body class="text-gray-900">
+  <div class="max-w-2xl mx-auto p-6 mt-12 bg-white rounded-2xl shadow-lg">
+    <h1 class="text-3xl font-bold mb-4 text-center text-gray-800">Exclusive Roofing Leads in Los Angeles</h1>
+    <p class="mb-6 text-center text-lg text-gray-600">We connect you with homeowners actively searching for roofing help. No shared lists. No old contacts.</p>
+
+    <form action="https://formsubmit.co/luexxe2300@gmail.com" method="POST" class="space-y-4">
+      <input type="hidden" name="_captcha" value="false">
+      <input type="hidden" name="_template" value="table">
+      <input type="hidden" name="_next" value="https://v0-new-project-pmwx1d1g7tu.vercel.app/thank-you.html">
+
+      <div>
+        <label class="block mb-1 font-medium">Full Name</label>
+        <input type="text" name="name" required class="w-full p-2 border rounded-xl">
+      </div>
+
+      <div>
+        <label class="block mb-1 font-medium">Email Address</label>
+        <input type="email" name="email" required class="w-full p-2 border rounded-xl">
+      </div>
+
+      <div>
+        <label class="block mb-1 font-medium">Phone Number</label>
+        <input type="text" name="phone" required class="w-full p-2 border rounded-xl">
+      </div>
+
+      <div>
+        <label class="block mb-1 font-medium">How many leads/month can you handle?</label>
+        <input type="text" name="lead_capacity" class="w-full p-2 border rounded-xl">
+      </div>
+
+      <button type="submit" class="w-full py-2 px-4 theme-accent text-white rounded-xl">Request My Free Leads</button>
+    </form>
+
+    <div class="mt-6 text-center">
+      <p class="text-sm text-gray-600">Prefer to book a time instead?</p>
+      <a href="https://calendly.com/sharhondadenson-blue-cloud-solution" target="_blank" class="inline-block mt-2 px-4 py-2 theme-primary text-white rounded-xl">Book a Call Now</a>
+    </div>
+
+    <p class="mt-4 text-sm text-center text-gray-500">We'll respond within 24 hours to confirm your sample leads and demo call.</p>
+  </div>
+</body>
+</html>
